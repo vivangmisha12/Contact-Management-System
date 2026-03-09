@@ -198,6 +198,9 @@ Remove-Item -Recurse -Force .next
 npm run build
 ```
 
+Live Demo:
+https://contact-manager-theta-beryl.vercel.app/
+
 ## License
 
 This project currently has no license file. Add a `LICENSE` file if you plan to distribute it publicly.
