@@ -1,0 +1,53 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Vivang Mishra",
+      "email": "vivangmishra@gmail.com",
+      "userId": 1,
+      "phone": "+91956988134"
+    },
+    {
+      "id": 2,
+      "name": "Raj Tiwari",
+      "email": "raj@gmail.com",
+      "phone": "",
+      "userId": 1
+    },
+    {
+      "id": 3,
+      "name": "Vishwajeet singh",
+      "email": "vishwa@gmail.com",
+      "phone": "",
+      "userId": 1
+    },
+    {
+      "id": 4,
+      "name": "Akash Srivastava",
+      "email": "akash@gmail.com",
+      "phone": "99999999",
+      "userId": 2
+    },
+    {
+      "id": 5,
+      "name": "Shubham",
+      "email": "shubham@gmail.com",
+      "phone": "99999999",
+      "userId": 2
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "User1",
+      "email": "user1@example.com",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "name": "Vivang Mishra",
+      "email": "vivangmishra@gmail.com",
+      "password": "123123"
+    }
+  ]
+}
